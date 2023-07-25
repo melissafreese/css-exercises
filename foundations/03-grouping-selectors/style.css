@@ -1,3 +1,9 @@
+.click-me-button,
+.no-click-me-button {
+	font-size: 28px;
+	font-family: Helvetica, "Times New Roman", "Times New Roman", sans-serif;
+}
+
 .click-me-button {
 	background-color: black;
 	color: white;
@@ -6,9 +12,4 @@
 .no-click-me-button {
 	background-color: yellow;
 	color: black;
-}
-
-.button {
-	font-size: 28px;
-	font-family: Helvetica, "Times New Roman", Times, serif sans-serif;
 }
